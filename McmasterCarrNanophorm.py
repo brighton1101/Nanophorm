@@ -108,6 +108,8 @@ def program(filename) :
         print("Merchandise Total: " + merchandiseTotal)
         print("Shipping Total: " + shippingTotal)
         print("Grand Total: " + grandTotal)
+    if stage != 5 :
+        print("ERROR")
 
 
             #break
