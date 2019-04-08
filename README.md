@@ -1,3 +1,3 @@
 # Nanophorm
 
-Scripts from Nanophorm Internship.
+Scripts from Nanophorm Internship. Property of Nanophorm LLC.
