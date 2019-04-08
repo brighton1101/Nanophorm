@@ -5,6 +5,10 @@ Need PyPDF2 installed to work
 Brighton Balfrey
 Property of Nanophorm LLC
 
+Shell code for project. Data is stored in list/variables
+and users can then choose what they want to do with the 
+information from there.
+
 Name, price, line stored in InvoiceLine objects for
 each item on invoice in list called INVOICE_ITEMS
 
